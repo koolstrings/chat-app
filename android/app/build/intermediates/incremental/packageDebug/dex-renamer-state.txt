@@ -1,0 +1,4 @@
+#Thu Jun 21 13:55:51 CDT 2018
+base.0=/Users/pamis1/Documents/myChatApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/pamis1/Documents/myChatApp/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
